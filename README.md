@@ -136,6 +136,6 @@ Este projeto está licenciado sob a licença **MIT**. Sinta-se livre para estuda
 
 
 
-Desenvolvido por [*Jhonatha**](https://github.com/Bfr-Jhon)
+Desenvolvido por [**Jhonatha**](https://github.com/Bfr-Jhon)
 Para dúvidas, sugestões ou colaborações, utilize as **issues do GitHub** ou entre em contato diretamente pelo perfil.
 
