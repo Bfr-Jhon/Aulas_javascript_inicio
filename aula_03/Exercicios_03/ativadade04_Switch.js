@@ -19,7 +19,7 @@ console.log("                                        ")
 
 let codigo = read.questionInt("Codigo do Produto: ");
 let quantidade = read.questionInt("Quantidade: ");
-// Daria para usar o read.KeyIn
+// Daria para usar o read.K
 
 
 switch (codigo) {
